@@ -78,7 +78,7 @@ SYADAGENTIC/
 
 ### Opsi A — Clone + Installer (paling cepat)
 ```bash
-git clone https://github.com/USERNAME/syadagentic.git
+git clone https://github.com/Pakdhe14ww/syadagentic.git
 cd syadagentic
 bash install.sh          # deteksi otomatis Hermes/Claude/Codex/opencode
 ```
